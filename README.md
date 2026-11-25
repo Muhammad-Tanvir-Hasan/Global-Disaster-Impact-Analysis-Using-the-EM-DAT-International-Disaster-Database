@@ -1,0 +1,1 @@
+# Global-Disaster-Impact-Analysis-Using-the-EM-DAT-International-Disaster-Database
